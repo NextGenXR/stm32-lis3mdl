@@ -20,6 +20,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "lis3mdl.h"
+#include <magneto.h>
 
 /** @addtogroup BSP
   * @{
